@@ -1,5 +1,7 @@
 # 🧠 Project Manager App
 
+Link to screenshots : https://drive.google.com/drive/folders/1t3jTAZ2XxzhEeT7NnWkZTteVHz7wGNJj?usp=sharing
+
 A full-stack **Project Management Application** built using:
 - 🖥️ **Frontend:** React + TypeScript + Vite + TailwindCSS  
 - ⚙️ **Backend:** ASP.NET Core 8 Minimal API + Entity Framework Core  
