@@ -206,7 +206,7 @@ Click **Deploy Site** — done 🎉
 
 **Manav Gupta**  
 🎓 M.Tech Computer Science | Full-Stack + AI/ML Enthusiast  
-📧 [manavgupta@example.com](mailto:manavgupta@example.com)  
+📧 [mg2002.gupta@gmail.com](mailto:mg2002.gupta@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/manav-g27) • [GitHub](https://github.com/manav-g27)
 
 
