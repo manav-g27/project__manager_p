@@ -1,0 +1,12 @@
+{
+  "name": "plc-assignments",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "apps/apis/*"
+  ],
+  "scripts": {
+    "dev:basic": "npm --prefix apps/task-manager-basic run dev",
+    "dev:pm:fe": "npm --prefix apps/project-manager-frontend run dev"
+  }
+}
