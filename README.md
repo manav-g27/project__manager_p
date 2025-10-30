@@ -2,7 +2,7 @@
 
 Link to screenshots : https://drive.google.com/drive/folders/1t3jTAZ2XxzhEeT7NnWkZTteVHz7wGNJj?usp=sharing
 
-Please wait and try 2-3 times as backend is hosted on render free tier and it may halt for some time due to no use
+**Please wait and try 2-3 times after a minute as backend is hosted on render free tier and it may take some time due to no frequent use**
 
 A full-stack **Project Management Application** built using:
 - 🖥️ **Frontend:** React + TypeScript + Vite + TailwindCSS  
